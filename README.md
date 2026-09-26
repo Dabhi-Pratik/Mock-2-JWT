@@ -25,6 +25,27 @@ The deployed root endpoint returns:
 
 "Hello from Server"
 
+📸 API Testing Gallery
+
+<img width="1919" height="957" alt="Screenshot 2026-09-26 135340" src="https://github.com/user-attachments/assets/e24dd0d1-2319-408f-b9fb-3c2e6289fb7c" />
+
+<img width="1919" height="1002" alt="Screenshot 2026-09-26 135502" src="https://github.com/user-attachments/assets/5b7fa370-ad4d-449e-a9eb-e133b8a2a4a4" />
+
+<img width="1919" height="1026" alt="Screenshot 2026-09-26 135527" src="https://github.com/user-attachments/assets/3f301c73-ffee-4903-8a6a-1612b6cb8792" />
+
+<img width="1919" height="1034" alt="Screenshot 2026-09-26 135559" src="https://github.com/user-attachments/assets/38440b1f-daa9-4646-8375-00e361e0176d" />
+
+<img width="1919" height="1030" alt="Screenshot 2026-09-26 135705" src="https://github.com/user-attachments/assets/14e0748a-6fdd-4f2d-b0aa-588b72e9045d" />
+
+<img width="1919" height="1030" alt="Screenshot 2026-09-26 135705" src="https://github.com/user-attachments/assets/431dcc45-2b88-4653-a0b2-8e18cfc7a4e7" />
+
+<img width="1919" height="1030" alt="Screenshot 2026-09-26 135744" src="https://github.com/user-attachments/assets/81e1b45e-a2bb-4422-a327-d750c2d0c083" />
+
+<img width="1919" height="1029" alt="Screenshot 2026-09-26 135955" src="https://github.com/user-attachments/assets/5f33f045-e754-4761-804e-d8640698bd39" />
+
+<img width="1919" height="1033" alt="Screenshot 2026-09-26 141900" src="https://github.com/user-attachments/assets/ef8259e6-90ef-4418-a763-1426ee80f637" />
+
+
 ✨ Features
 
 👤 Create a new user
@@ -363,28 +384,6 @@ Logout
 
 
 Logout From All Devices
-
-
-
-📸 API Testing Gallery
-
-<img width="1919" height="957" alt="Screenshot 2026-09-26 135340" src="https://github.com/user-attachments/assets/e24dd0d1-2319-408f-b9fb-3c2e6289fb7c" />
-
-<img width="1919" height="1002" alt="Screenshot 2026-09-26 135502" src="https://github.com/user-attachments/assets/5b7fa370-ad4d-449e-a9eb-e133b8a2a4a4" />
-
-<img width="1919" height="1026" alt="Screenshot 2026-09-26 135527" src="https://github.com/user-attachments/assets/3f301c73-ffee-4903-8a6a-1612b6cb8792" />
-
-<img width="1919" height="1034" alt="Screenshot 2026-09-26 135559" src="https://github.com/user-attachments/assets/38440b1f-daa9-4646-8375-00e361e0176d" />
-
-<img width="1919" height="1030" alt="Screenshot 2026-09-26 135705" src="https://github.com/user-attachments/assets/14e0748a-6fdd-4f2d-b0aa-588b72e9045d" />
-
-<img width="1919" height="1030" alt="Screenshot 2026-09-26 135705" src="https://github.com/user-attachments/assets/431dcc45-2b88-4653-a0b2-8e18cfc7a4e7" />
-
-<img width="1919" height="1030" alt="Screenshot 2026-09-26 135744" src="https://github.com/user-attachments/assets/81e1b45e-a2bb-4422-a327-d750c2d0c083" />
-
-<img width="1919" height="1029" alt="Screenshot 2026-09-26 135955" src="https://github.com/user-attachments/assets/5f33f045-e754-4761-804e-d8640698bd39" />
-
-<img width="1919" height="1033" alt="Screenshot 2026-09-26 141900" src="https://github.com/user-attachments/assets/ef8259e6-90ef-4418-a763-1426ee80f637" />
 
 
 🔒 Security Concepts Demonstrated
