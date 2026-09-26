@@ -2,12 +2,16 @@ import jwt from "jsonwebtoken";
 import HttpError from "./HttpError.js";
 import User from "../model/userModel.js";
 
-const auth = async function (req, res, next) {
+const auth = async (req, res, next) => {
   try {
     const authHeader = req.header("Authorization");
 
     if (!authHeader) {
-      return next(new HttpError("auth header is required", 401));
+      return next(new HttpError("Authorization header is required", 401));
+    }
+
+    if (!authHeader.startsWith("Bearer ")) {
+      return next(new HttpError("Invalid authorization format", 401));
     }
 
     const token = authHeader.replace("Bearer ", "");
@@ -20,16 +24,15 @@ const auth = async function (req, res, next) {
     });
 
     if (!user) {
-      return next(new HttpError("authentication fail", 401));
+      return next(new HttpError("Authentication failed", 401));
     }
 
-    req.User = user;
-
+    req.user = user;
     req.token = token;
 
     next();
   } catch (error) {
-    next(new HttpError(error.message));
+    next(new HttpError(error.message, 401));
   }
 };
 
